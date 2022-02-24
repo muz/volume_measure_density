@@ -7,7 +7,8 @@ volume (cubic centimeters) / weight (grains) = VMD
 ```
 
 Figures and powders here are either based on provided values from Lee, or
-extrapolated from other provided literature.
+extrapolated from other provided literature. There's no chance I've actually
+transcribed these values by hand, thank lazy PDF text extraction for this.
 
 It goes without saying, but DOUBLE CHECK YOUR LOADS.
 

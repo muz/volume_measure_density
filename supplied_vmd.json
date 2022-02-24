@@ -1,0 +1,5090 @@
+[
+    {
+        "vmd": 0.1349,
+        "powder": "A NITRO100",
+        "manufacturer": "WESTERN",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0663,
+        "powder": "ACC MAG PRO",
+        "manufacturer": "WESTERN",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0838,
+        "powder": "ACCUR #2",
+        "manufacturer": "WESTERN",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0623,
+        "powder": "ACCUR #5",
+        "manufacturer": "WESTERN",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0653,
+        "powder": "ACCUR #7",
+        "manufacturer": "WESTERN",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0657,
+        "powder": "ACCUR #9",
+        "manufacturer": "WESTERN",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0655,
+        "powder": "ACCUR 1680",
+        "manufacturer": "WESTERN",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.073,
+        "powder": "ACCUR 2015",
+        "manufacturer": "WESTERN",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0694,
+        "powder": "ACCUR 2200",
+        "manufacturer": "WESTERN",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0657,
+        "powder": "ACCUR 2230",
+        "manufacturer": "WESTERN",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0656,
+        "powder": "ACCUR 2460",
+        "manufacturer": "WESTERN",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0748,
+        "powder": "ACCUR 2495",
+        "manufacturer": "WESTERN",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0683,
+        "powder": "ACCUR 2520",
+        "manufacturer": "WESTERN",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0685,
+        "powder": "ACCUR 2700",
+        "manufacturer": "WESTERN",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0748,
+        "powder": "ACCUR 3100",
+        "manufacturer": "WESTERN",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0755,
+        "powder": "ACCUR 4064",
+        "manufacturer": "WESTERN",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.069,
+        "powder": "ACCUR 4100",
+        "manufacturer": "WESTERN",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.074,
+        "powder": "ACCUR 4350",
+        "manufacturer": "WESTERN",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0752,
+        "powder": "ACCUR 5744",
+        "manufacturer": "WESTERN",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0688,
+        "powder": "ACCUR 8700",
+        "manufacturer": "WESTERN",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.075,
+        "powder": "LT-30",
+        "manufacturer": "WESTERN",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0771,
+        "powder": "LT-32",
+        "manufacturer": "WESTERN",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.1278,
+        "powder": "R COMPETITION",
+        "manufacturer": "WESTERN",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0693,
+        "powder": "R ENFORCER",
+        "manufacturer": "WESTERN",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0667,
+        "powder": "R HUNTER",
+        "manufacturer": "WESTERN",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0796,
+        "powder": "R SILHOUETTE",
+        "manufacturer": "WESTERN",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0684,
+        "powder": "R TRUE BLUE",
+        "manufacturer": "WESTERN",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0708,
+        "powder": "RAM BIG GAME",
+        "manufacturer": "WESTERN",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0661,
+        "powder": "RAM MAGNUM",
+        "manufacturer": "WESTERN",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0671,
+        "powder": "RAM TAC",
+        "manufacturer": "WESTERN",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0816,
+        "powder": "RAM ZIP",
+        "manufacturer": "WESTERN",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0681,
+        "powder": "X-TERMINATOR",
+        "manufacturer": "WESTERN",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.1006,
+        "powder": "BLACKHORN 209",
+        "manufacturer": "WESTERN",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0667,
+        "powder": "ALNT 300 MP",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0722,
+        "powder": "ALNT 4000 MR",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0753,
+        "powder": "ALNT AR-COMP",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0651,
+        "powder": "ALNT VARMINT",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.1587,
+        "powder": "ROYAL SCOT",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.1331,
+        "powder": "SOLO 1000",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.1099,
+        "powder": "SOLO 1500",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.1063,
+        "powder": "ALLIANT STEEL",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0804,
+        "powder": "ALNT 410",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.1489,
+        "powder": "ALNT E3",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.1341,
+        "powder": "AMER-SELECT",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0865,
+        "powder": "BLUE DOT",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.1064,
+        "powder": "BULLSEYE",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.1262,
+        "powder": "GREEN DOT",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0742,
+        "powder": "HERC 2400",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.1122,
+        "powder": "HERCO",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0889,
+        "powder": "POWER PISTOL",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.1413,
+        "powder": "RED DOT",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0728,
+        "powder": "RELODER 7",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0746,
+        "powder": "RELODER 10",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0691,
+        "powder": "RELODER12",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0706,
+        "powder": "RELODER15",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0697,
+        "powder": "RELODER 17",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0706,
+        "powder": "RELODER19",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0697,
+        "powder": "RELODER22",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0707,
+        "powder": "RELODER 25",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.1092,
+        "powder": "UNIQUE",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0787,
+        "powder": "AUTOCOMP",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0715,
+        "powder": "BENCHMARK",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0645,
+        "powder": "BL-C(2)",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0646,
+        "powder": "CFE 223",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0754,
+        "powder": "CFE PISTOL",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.1462,
+        "powder": "CLAYS",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0694,
+        "powder": "H50BMG",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0678,
+        "powder": "H LIL GUN",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0721,
+        "powder": "H RETUMBO",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0653,
+        "powder": "H-LVR",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0811,
+        "powder": "H-PYRDX RS",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0823,
+        "powder": "H-PYRODX P",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0658,
+        "powder": "H-SUPRFORM",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0731,
+        "powder": "H-VARGET",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0713,
+        "powder": "H1000",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0656,
+        "powder": "H110",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0725,
+        "powder": "H322",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0645,
+        "powder": "H335",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0691,
+        "powder": "H380",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0661,
+        "powder": "H414",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.075,
+        "powder": "H4198",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0769,
+        "powder": "H4227",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0725,
+        "powder": "H4350",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0653,
+        "powder": "H450",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0725,
+        "powder": "H4831",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0728,
+        "powder": "H4895",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0686,
+        "powder": "H870",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0651,
+        "powder": "HO US869",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0926,
+        "powder": "HP38",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0712,
+        "powder": "HS6",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.068,
+        "powder": "HS7",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0726,
+        "powder": "HYBRID100",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.1266,
+        "powder": "INTERNATIONAL",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0824,
+        "powder": "LONGSHOT",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.1015,
+        "powder": "PYRODEX CTG",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0848,
+        "powder": "TITEGROUP",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.13,
+        "powder": "TITEWAD",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.1099,
+        "powder": "UNIVERSAL",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0725,
+        "powder": "IMR 4007 SSC",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0741,
+        "powder": "IMR 4166",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0713,
+        "powder": "IMR 4451",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0724,
+        "powder": "IMR 4955",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.1343,
+        "powder": "IMR 700X",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0707,
+        "powder": "IMR 7977",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.1071,
+        "powder": "IMR 800X",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.071,
+        "powder": "IMR 8208 XBR",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.077,
+        "powder": "IMR BLUE",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.1122,
+        "powder": "IMR GREEN",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.1205,
+        "powder": "IMR PB",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.1107,
+        "powder": "IMR RED",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.09816,
+        "powder": "IMR TARGET",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.2172,
+        "powder": "IMR TRAIL BOSS",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0762,
+        "powder": "IMR3031",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0745,
+        "powder": "IMR4064",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0792,
+        "powder": "IMR4198",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0769,
+        "powder": "IMR4227",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0716,
+        "powder": "IMR4320",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0735,
+        "powder": "IMR4350",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0735,
+        "powder": "IMR4831",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0728,
+        "powder": "IMR4895",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0725,
+        "powder": "IMR7828",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.11,
+        "powder": "SR4756",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0993,
+        "powder": "SR4759",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.1046,
+        "powder": "SR7625",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0684,
+        "powder": "SUPRM780",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0931,
+        "powder": "WIN 231",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0656,
+        "powder": "WIN 296",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0823,
+        "powder": "WIN 572",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0655,
+        "powder": "WIN 748",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0666,
+        "powder": "WIN 760",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.1296,
+        "powder": "WIN AA PLUS",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.081,
+        "powder": "WIN ACTION PI",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0718,
+        "powder": "WIN MAG RIFLE",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0859,
+        "powder": "WIN SUPER HANDI",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.084,
+        "powder": "wSUPER-FLD",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0847,
+        "powder": "wSUPER-LIT",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.1205,
+        "powder": "wSUPER-TAR",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0741,
+        "powder": "AR2205",
+        "manufacturer": "ADI",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0714,
+        "powder": "AR2206",
+        "manufacturer": "ADI",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0759,
+        "powder": "AR2207",
+        "manufacturer": "ADI",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0725,
+        "powder": "AR2208",
+        "manufacturer": "ADI",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0713,
+        "powder": "AR2209",
+        "manufacturer": "ADI",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0686,
+        "powder": "AR2213",
+        "manufacturer": "ADI",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.1208,
+        "powder": "AS50",
+        "manufacturer": "ADI",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0892,
+        "powder": "MP200",
+        "manufacturer": "SOCHEM",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.1061,
+        "powder": "MS200",
+        "manufacturer": "SOCHEM",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.1196,
+        "powder": "VEC AO",
+        "manufacturer": "VECTAN",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.135,
+        "powder": "VEC BA10",
+        "manufacturer": "VECTAN",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0919,
+        "powder": "VEC BA9",
+        "manufacturer": "VECTAN",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0668,
+        "powder": "VEC SP10",
+        "manufacturer": "VECTAN",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0682,
+        "powder": "VEC SP3",
+        "manufacturer": "VECTAN",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0658,
+        "powder": "VEC SP7",
+        "manufacturer": "VECTAN",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0682,
+        "powder": "VEC SP8",
+        "manufacturer": "VECTAN",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0682,
+        "powder": "VEC SP9",
+        "manufacturer": "VECTAN",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0762,
+        "powder": "VEC TU2000",
+        "manufacturer": "VECTAN",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.072,
+        "powder": "VEC TU5000",
+        "manufacturer": "VECTAN",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0704,
+        "powder": "VEC TU7000",
+        "manufacturer": "VECTAN",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0704,
+        "powder": "VEC TU8000",
+        "manufacturer": "VECTAN",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0913,
+        "powder": "v-3N37",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0754,
+        "powder": "V-3N38",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.09,
+        "powder": "v-N105",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0833,
+        "powder": "v-N110",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0776,
+        "powder": "v-N120",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0754,
+        "powder": "v-N130",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.077,
+        "powder": "v-N133",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0777,
+        "powder": "v-N135",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0733,
+        "powder": "v-N140",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0746,
+        "powder": "v-N150",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0734,
+        "powder": "v-N160",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0712,
+        "powder": "v-N165",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0713,
+        "powder": "v-N170",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.1214,
+        "powder": "v-N310",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.121,
+        "powder": "v-N320",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.1079,
+        "powder": "v-N330",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.1066,
+        "powder": "v-N340",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0977,
+        "powder": "v-N350",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0705,
+        "powder": "v-N530",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0701,
+        "powder": "v-N540",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0692,
+        "powder": "v-N550",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.069,
+        "powder": "v-N560",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0738,
+        "powder": "NORMA 200",
+        "manufacturer": "NORMA",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0728,
+        "powder": "NORMA 201",
+        "manufacturer": "NORMA",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0747,
+        "powder": "NORMA 202",
+        "manufacturer": "NORMA",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0722,
+        "powder": "NORMA 203B",
+        "manufacturer": "NORMA",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0706,
+        "powder": "NORMA 204",
+        "manufacturer": "NORMA",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0715,
+        "powder": "NORMA 217",
+        "manufacturer": "NORMA",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0707,
+        "powder": "NORMA MRP",
+        "manufacturer": "NORMA",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.0718,
+        "powder": "NORMA URP",
+        "manufacturer": "NORMA",
+        "_ref": "90058_2"
+    },
+    {
+        "vmd": 0.1349,
+        "powder": "A NITRO100",
+        "manufacturer": "ACCURATE",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0663,
+        "powder": "ACC MAG PRO",
+        "manufacturer": "ACCURATE",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0838,
+        "powder": "ACCUR #2",
+        "manufacturer": "ACCURATE",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0623,
+        "powder": "ACCUR #5",
+        "manufacturer": "ACCURATE",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0653,
+        "powder": "ACCUR #7",
+        "manufacturer": "ACCURATE",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0657,
+        "powder": "ACCUR #9",
+        "manufacturer": "ACCURATE",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0655,
+        "powder": "ACCUR 1680",
+        "manufacturer": "ACCURATE",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.073,
+        "powder": "ACCUR 2015",
+        "manufacturer": "ACCURATE",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0694,
+        "powder": "ACCUR 2200",
+        "manufacturer": "ACCURATE",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0657,
+        "powder": "ACCUR 2230",
+        "manufacturer": "ACCURATE",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0656,
+        "powder": "ACCUR 2460",
+        "manufacturer": "ACCURATE",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0748,
+        "powder": "ACCUR 2495",
+        "manufacturer": "ACCURATE",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0683,
+        "powder": "ACCUR 2520",
+        "manufacturer": "ACCURATE",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0685,
+        "powder": "ACCUR 2700",
+        "manufacturer": "ACCURATE",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0748,
+        "powder": "ACCUR 3100",
+        "manufacturer": "ACCURATE",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0755,
+        "powder": "ACCUR 4064",
+        "manufacturer": "ACCURATE",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.074,
+        "powder": "ACCUR 4350",
+        "manufacturer": "ACCURATE",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0752,
+        "powder": "ACCUR 5744",
+        "manufacturer": "ACCURATE",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0688,
+        "powder": "ACCUR 8700",
+        "manufacturer": "ACCURATE",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0771,
+        "powder": "LT-32",
+        "manufacturer": "ACCURATE",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.1331,
+        "powder": "SOLO 1000",
+        "manufacturer": "ACCURATE",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0667,
+        "powder": "ALNT 300 MP",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0722,
+        "powder": "ALNT 4000 MR",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0753,
+        "powder": "ALNT AR-COMP",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0651,
+        "powder": "ALNT VARMINT",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0697,
+        "powder": "RELODER 17",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.1063,
+        "powder": "ALLIANT STEEL",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0804,
+        "powder": "ALNT 410",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.1489,
+        "powder": "ALNT E3",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.1341,
+        "powder": "AMER-SELECT",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0865,
+        "powder": "BLUE DOT",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.1064,
+        "powder": "BULLSEYE",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.1262,
+        "powder": "GREEN DOT",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0742,
+        "powder": "HERC 2400",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.1122,
+        "powder": "HERCO",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0889,
+        "powder": "POWER PISTOL",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.1413,
+        "powder": "RED DOT",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0746,
+        "powder": "RELODER 10",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0707,
+        "powder": "RELODER 25",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0728,
+        "powder": "RELODER 7",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0691,
+        "powder": "RELODER12",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0706,
+        "powder": "RELODER15",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0706,
+        "powder": "RELODER19",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0697,
+        "powder": "RELODER22",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.1092,
+        "powder": "UNIQUE",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0715,
+        "powder": "BENCHMARK",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0645,
+        "powder": "BL-C(2)",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0646,
+        "powder": "CFE 223",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0754,
+        "powder": "CFE PISTOL",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.1462,
+        "powder": "CLAYS",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0694,
+        "powder": "H50BMG",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0678,
+        "powder": "H LIL GUN",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0721,
+        "powder": "H RETUMBO",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.1171,
+        "powder": "H TRAP100",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0653,
+        "powder": "H-LVR",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0811,
+        "powder": "H-PYRDX RS",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0823,
+        "powder": "H-PYRODX P",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0658,
+        "powder": "H-SUPRFORM",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0731,
+        "powder": "H-VARGET",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0713,
+        "powder": "H1000",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0656,
+        "powder": "H110",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0725,
+        "powder": "H322",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0645,
+        "powder": "H335",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0691,
+        "powder": "H380",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0661,
+        "powder": "H414",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.075,
+        "powder": "H4198",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0769,
+        "powder": "H4227",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0725,
+        "powder": "H4350",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0653,
+        "powder": "H450",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0725,
+        "powder": "H4831",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0728,
+        "powder": "H4895",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0651,
+        "powder": "HO US869",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0926,
+        "powder": "HP38",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0712,
+        "powder": "HS6",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.068,
+        "powder": "HS7",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0726,
+        "powder": "HYBRID100",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.1266,
+        "powder": "INTERNATIONAL",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0824,
+        "powder": "LONGSHOT",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.1015,
+        "powder": "PYRODEX CTG",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0848,
+        "powder": "TITEGROUP",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.13,
+        "powder": "TITEWAD",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.1099,
+        "powder": "UNIVERSAL",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0725,
+        "powder": "IMR 4007 SSC",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.1343,
+        "powder": "IMR 700X",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.1071,
+        "powder": "IMR 800X",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.071,
+        "powder": "IMR 8208",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.1205,
+        "powder": "IMR PB",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.2172,
+        "powder": "IMR TRAIL BOSS",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0762,
+        "powder": "IMR3031",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0745,
+        "powder": "IMR4064",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0741,
+        "powder": "IMR4166",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0792,
+        "powder": "IMR4198",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0769,
+        "powder": "IMR4227",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0716,
+        "powder": "IMR4320",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0735,
+        "powder": "IMR4350",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0713,
+        "powder": "IMR4451",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0735,
+        "powder": "IMR4831",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0728,
+        "powder": "IMR4895",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0725,
+        "powder": "IMR7828",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0707,
+        "powder": "IMR7977",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.11,
+        "powder": "SR4756",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0993,
+        "powder": "SR4759",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.1046,
+        "powder": "SR7625",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0787,
+        "powder": "AUTOCOMP",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0684,
+        "powder": "SUPRM780",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0931,
+        "powder": "WIN 231",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0656,
+        "powder": "WIN 296",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0655,
+        "powder": "WIN 748",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0666,
+        "powder": "WIN 760",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.1266,
+        "powder": "WIN AA LITE",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.1296,
+        "powder": "WIN AA PLUS",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.081,
+        "powder": "WIN ACTION PI",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0718,
+        "powder": "WIN MAG RIFLE",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0859,
+        "powder": "WIN SUPER HANDI",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.084,
+        "powder": "wSUPER-FLD",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0847,
+        "powder": "wSUPER-LIT",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.1205,
+        "powder": "wSUPER-TAR",
+        "manufacturer": "HODGDON",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.1278,
+        "powder": "R COMPETITION",
+        "manufacturer": "RAMSHOT",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0693,
+        "powder": "R ENFORCER",
+        "manufacturer": "RAMSHOT",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0667,
+        "powder": "R HUNTER",
+        "manufacturer": "RAMSHOT",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0796,
+        "powder": "R SILHOUETTE",
+        "manufacturer": "RAMSHOT",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0684,
+        "powder": "R TRUE BLUE",
+        "manufacturer": "RAMSHOT",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0708,
+        "powder": "RAM BIG GAME",
+        "manufacturer": "RAMSHOT",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0661,
+        "powder": "RAM MAGNUM",
+        "manufacturer": "RAMSHOT",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0671,
+        "powder": "RAM TAC",
+        "manufacturer": "RAMSHOT",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0816,
+        "powder": "RAM ZIP",
+        "manufacturer": "RAMSHOT",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0681,
+        "powder": "X-TERMINATOR",
+        "manufacturer": "RAMSHOT",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0738,
+        "powder": "NORMA 200",
+        "manufacturer": "NORMA",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0728,
+        "powder": "NORMA 201",
+        "manufacturer": "NORMA",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0747,
+        "powder": "NORMA 202",
+        "manufacturer": "NORMA",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0722,
+        "powder": "NORMA 203B",
+        "manufacturer": "NORMA",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0707,
+        "powder": "NORMA MRP",
+        "manufacturer": "NORMA",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0718,
+        "powder": "NORMA URP",
+        "manufacturer": "NORMA",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0892,
+        "powder": "MP200",
+        "manufacturer": "SOUTH AFRICA",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.1061,
+        "powder": "MS200",
+        "manufacturer": "SOUTH AFRICA",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.1196,
+        "powder": "VEC AO",
+        "manufacturer": "VECTAN",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.135,
+        "powder": "VEC BA10",
+        "manufacturer": "VECTAN",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0919,
+        "powder": "VEC BA9",
+        "manufacturer": "VECTAN",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0668,
+        "powder": "VEC SP10",
+        "manufacturer": "VECTAN",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0682,
+        "powder": "VEC SP3",
+        "manufacturer": "VECTAN",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0658,
+        "powder": "VEC SP7",
+        "manufacturer": "VECTAN",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0682,
+        "powder": "VEC SP8",
+        "manufacturer": "VECTAN",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0682,
+        "powder": "VEC SP9",
+        "manufacturer": "VECTAN",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0762,
+        "powder": "VEC TU2000",
+        "manufacturer": "VECTAN",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.072,
+        "powder": "VEC TU5000",
+        "manufacturer": "VECTAN",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0704,
+        "powder": "VEC TU7000",
+        "manufacturer": "VECTAN",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0704,
+        "powder": "VEC TU8000",
+        "manufacturer": "VECTAN",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0913,
+        "powder": "v-3N37",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.09,
+        "powder": "v-N105",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0833,
+        "powder": "v-N110",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0776,
+        "powder": "v-N120",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0754,
+        "powder": "v-N130",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.077,
+        "powder": "v-N133",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0777,
+        "powder": "v-N135",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0733,
+        "powder": "v-N140",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0746,
+        "powder": "v-N150",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0734,
+        "powder": "v-N160",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0712,
+        "powder": "v-N165",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0713,
+        "powder": "v-N170",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.1214,
+        "powder": "v-N310",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.121,
+        "powder": "v-N320",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.1079,
+        "powder": "v-N330",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.1066,
+        "powder": "v-N340",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0977,
+        "powder": "v-N350",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0701,
+        "powder": "v-N540",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.0692,
+        "powder": "v-N550",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.069,
+        "powder": "v-N560",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058_i"
+    },
+    {
+        "vmd": 0.1349,
+        "powder": "A NITRO100",
+        "manufacturer": "ACCURATE",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0663,
+        "powder": "ACC MAG PRO",
+        "manufacturer": "ACCURATE",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0838,
+        "powder": "ACCUR #2",
+        "manufacturer": "ACCURATE",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0623,
+        "powder": "ACCUR #5",
+        "manufacturer": "ACCURATE",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0653,
+        "powder": "ACCUR #7",
+        "manufacturer": "ACCURATE",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0657,
+        "powder": "ACCUR #9",
+        "manufacturer": "ACCURATE",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0655,
+        "powder": "ACCUR 1680",
+        "manufacturer": "ACCURATE",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.073,
+        "powder": "ACCUR 2015",
+        "manufacturer": "ACCURATE",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0694,
+        "powder": "ACCUR 2200",
+        "manufacturer": "ACCURATE",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0657,
+        "powder": "ACCUR 2230",
+        "manufacturer": "ACCURATE",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0656,
+        "powder": "ACCUR 2460",
+        "manufacturer": "ACCURATE",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0748,
+        "powder": "ACCUR 2495",
+        "manufacturer": "ACCURATE",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0683,
+        "powder": "ACCUR 2520",
+        "manufacturer": "ACCURATE",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0685,
+        "powder": "ACCUR 2700",
+        "manufacturer": "ACCURATE",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0748,
+        "powder": "ACCUR 3100",
+        "manufacturer": "ACCURATE",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0755,
+        "powder": "ACCUR 4064",
+        "manufacturer": "ACCURATE",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.074,
+        "powder": "ACCUR 4350",
+        "manufacturer": "ACCURATE",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0752,
+        "powder": "ACCUR 5744",
+        "manufacturer": "ACCURATE",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0688,
+        "powder": "ACCUR 8700",
+        "manufacturer": "ACCURATE",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0667,
+        "powder": "ALNT 300 MP",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0722,
+        "powder": "ALNT 4000 MR",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0753,
+        "powder": "ALNT AR-COMP",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0651,
+        "powder": "ALNT VARMINT",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0697,
+        "powder": "RELODER 17",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.1331,
+        "powder": "SOLO 1000",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.1099,
+        "powder": "SOLO 1500",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.1063,
+        "powder": "ALLIANT STEEL",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0804,
+        "powder": "ALNT 410",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.1489,
+        "powder": "ALNT E3",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.1341,
+        "powder": "AMER-SELECT",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0865,
+        "powder": "BLUE DOT",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.1064,
+        "powder": "BULLSEYE",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.1262,
+        "powder": "GREEN DOT",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0742,
+        "powder": "HERC 2400",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.1122,
+        "powder": "HERCO",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0889,
+        "powder": "POWER PISTOL",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.1413,
+        "powder": "RED DOT",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0746,
+        "powder": "RELODER 10",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0707,
+        "powder": "RELODER 25",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0728,
+        "powder": "RELODER 7",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0691,
+        "powder": "RELODER12",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0706,
+        "powder": "RELODER15",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0706,
+        "powder": "RELODER19",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0697,
+        "powder": "RELODER22",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.1092,
+        "powder": "UNIQUE",
+        "manufacturer": "ALLIANT",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0715,
+        "powder": "BENCHMARK",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0645,
+        "powder": "BL-C(2)",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.1462,
+        "powder": "CLAYS",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0694,
+        "powder": "H50BMG",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0678,
+        "powder": "H LIL GUN",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0721,
+        "powder": "H RETUMBO",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0653,
+        "powder": "H-LVR",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0811,
+        "powder": "H-PYRDX RS",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0823,
+        "powder": "H-PYRODX P",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0658,
+        "powder": "H-SUPRFORM",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0731,
+        "powder": "H-VARGET",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0713,
+        "powder": "H1000",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0656,
+        "powder": "H110",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0725,
+        "powder": "H322",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0645,
+        "powder": "H335",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0691,
+        "powder": "H380",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0661,
+        "powder": "H414",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.075,
+        "powder": "H4198",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0725,
+        "powder": "H4350",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0725,
+        "powder": "H4831",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0728,
+        "powder": "H4895",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0651,
+        "powder": "HO US869",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0926,
+        "powder": "HP38",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0712,
+        "powder": "HS6",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0726,
+        "powder": "HYBRID100",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.071,
+        "powder": "IMR 8208",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.1266,
+        "powder": "INTERNATIONAL",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0824,
+        "powder": "LONGSHOT",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.1015,
+        "powder": "PYRODEX CTG",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0848,
+        "powder": "TITEGROUP",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.13,
+        "powder": "TITEWAD",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.1099,
+        "powder": "UNIVERSAL",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0725,
+        "powder": "IMR 4007 SSC",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.1343,
+        "powder": "IMR 700X",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.1071,
+        "powder": "IMR 800X",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.1205,
+        "powder": "IMR PB",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.2172,
+        "powder": "IMR TRAIL BOSS",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0762,
+        "powder": "IMR3031",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0745,
+        "powder": "IMR4064",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0769,
+        "powder": "IMR4227",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0716,
+        "powder": "IMR4320",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0735,
+        "powder": "IMR4831",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0728,
+        "powder": "IMR4895",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0725,
+        "powder": "IMR7828",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.11,
+        "powder": "SR4756",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0993,
+        "powder": "SR4759",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.1046,
+        "powder": "SR7625",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0787,
+        "powder": "AUTOCOMP",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0684,
+        "powder": "SUPRM780",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0931,
+        "powder": "WIN 231",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0656,
+        "powder": "WIN 296",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0655,
+        "powder": "WIN 748",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0666,
+        "powder": "WIN 760",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.1266,
+        "powder": "WIN AA LITE",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0859,
+        "powder": "WIN SUPER HANDI",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.084,
+        "powder": "wSUPER-FLD",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0847,
+        "powder": "wSUPER-LIT",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.1205,
+        "powder": "wSUPER-TAR",
+        "manufacturer": "HODGDON",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.1278,
+        "powder": "R COMPETITION",
+        "manufacturer": "RAMSHOT",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0693,
+        "powder": "R ENFORCE",
+        "manufacturer": "RAMSHOT",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0667,
+        "powder": "R HUNTER",
+        "manufacturer": "RAMSHOT",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0796,
+        "powder": "R SILHOUETTE",
+        "manufacturer": "RAMSHOT",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0684,
+        "powder": "R TRUE BLUE",
+        "manufacturer": "RAMSHOT",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0708,
+        "powder": "RAM BIG GAME",
+        "manufacturer": "RAMSHOT",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0661,
+        "powder": "RAM MAGNUM",
+        "manufacturer": "RAMSHOT",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0671,
+        "powder": "RAM TAC",
+        "manufacturer": "RAMSHOT",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0816,
+        "powder": "RAM ZIP",
+        "manufacturer": "RAMSHOT",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0681,
+        "powder": "X-TERMINATOR",
+        "manufacturer": "RAMSHOT",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0738,
+        "powder": "NORMA 200",
+        "manufacturer": "NORMA",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0728,
+        "powder": "NORMA 201",
+        "manufacturer": "NORMA",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0747,
+        "powder": "NORMA 202",
+        "manufacturer": "NORMA",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0722,
+        "powder": "NORMA 203B",
+        "manufacturer": "NORMA",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0706,
+        "powder": "NORMA 204",
+        "manufacturer": "NORMA",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0715,
+        "powder": "NORMA 217",
+        "manufacturer": "NORMA",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0707,
+        "powder": "NORMA MRP",
+        "manufacturer": "NORMA",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0718,
+        "powder": "NORMA URP",
+        "manufacturer": "NORMA",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0892,
+        "powder": "MP200",
+        "manufacturer": "SOUTH AFRICA",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.1061,
+        "powder": "MS200",
+        "manufacturer": "SOUTH AFRICA",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.1196,
+        "powder": "VEC AO",
+        "manufacturer": "VECTAN",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.135,
+        "powder": "VEC BA10",
+        "manufacturer": "VECTAN",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0919,
+        "powder": "VEC BA9",
+        "manufacturer": "VECTAN",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0668,
+        "powder": "VEC SP10",
+        "manufacturer": "VECTAN",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0682,
+        "powder": "VEC SP3",
+        "manufacturer": "VECTAN",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0658,
+        "powder": "VEC SP7",
+        "manufacturer": "VECTAN",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0682,
+        "powder": "VEC SP8",
+        "manufacturer": "VECTAN",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0682,
+        "powder": "VEC SP9",
+        "manufacturer": "VECTAN",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0762,
+        "powder": "VEC TU2000",
+        "manufacturer": "VECTAN",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.072,
+        "powder": "VEC TU5000",
+        "manufacturer": "VECTAN",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0704,
+        "powder": "VEC TU7000",
+        "manufacturer": "VECTAN",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0704,
+        "powder": "VEC TU8000",
+        "manufacturer": "VECTAN",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0913,
+        "powder": "v-3N37",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0754,
+        "powder": "V-3N38",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.09,
+        "powder": "v-N105",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0833,
+        "powder": "v-N110",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0776,
+        "powder": "v-N120",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0754,
+        "powder": "v-N130",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.077,
+        "powder": "v-N133",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0777,
+        "powder": "v-N135",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0733,
+        "powder": "v-N140",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0746,
+        "powder": "v-N150",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0734,
+        "powder": "v-N160",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0712,
+        "powder": "v-N165",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0713,
+        "powder": "v-N170",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.1214,
+        "powder": "v-N310",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.121,
+        "powder": "v-N320",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.1079,
+        "powder": "v-N330",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.1066,
+        "powder": "v-N340",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0977,
+        "powder": "v-N350",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0705,
+        "powder": "v-N530",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0701,
+        "powder": "v-N540",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.0692,
+        "powder": "v-N550",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.069,
+        "powder": "v-N560",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "90058"
+    },
+    {
+        "vmd": 0.1349,
+        "powder": "A NITRO100",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0663,
+        "powder": "ACC MAG PRO",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0838,
+        "powder": "ACCUR #2",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0623,
+        "powder": "ACCUR #5",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0653,
+        "powder": "ACCUR #7",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0657,
+        "powder": "ACCUR #9",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0655,
+        "powder": "ACCUR 1680",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.073,
+        "powder": "ACCUR 2015",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0694,
+        "powder": "ACCUR 2200",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0657,
+        "powder": "ACCUR 2230",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0656,
+        "powder": "ACCUR 2460",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0748,
+        "powder": "ACCUR 2495",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0683,
+        "powder": "ACCUR 2520",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0685,
+        "powder": "ACCUR 2700",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0748,
+        "powder": "ACCUR 3100",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0755,
+        "powder": "ACCUR 4064",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.069,
+        "powder": "ACCUR 4100",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.074,
+        "powder": "ACCUR 4350",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0751,
+        "powder": "ACCUR 5744",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0688,
+        "powder": "ACCUR 8700",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.075,
+        "powder": "LT-30",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0771,
+        "powder": "LT-32",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.1587,
+        "powder": "ROYAL SCOT",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.1331,
+        "powder": "SOLO 1000",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.1099,
+        "powder": "SOLO 1500",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.1063,
+        "powder": "ALLIANT STEEL",
+        "manufacturer": "ALLIANT",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0667,
+        "powder": "ALNT 300 MP",
+        "manufacturer": "ALLIANT",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0722,
+        "powder": "ALNT 4000 MR",
+        "manufacturer": "ALLIANT",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0804,
+        "powder": "ALNT 410",
+        "manufacturer": "ALLIANT",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0753,
+        "powder": "ALNT AR-COMP",
+        "manufacturer": "ALLIANT",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.1489,
+        "powder": "ALNT E3",
+        "manufacturer": "ALLIANT",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0651,
+        "powder": "ALNT VARMINT",
+        "manufacturer": "ALLIANT",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.1341,
+        "powder": "AMER-SELECT",
+        "manufacturer": "ALLIANT",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0865,
+        "powder": "BLUE DOT",
+        "manufacturer": "ALLIANT",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0889,
+        "powder": "POWER PISTOL",
+        "manufacturer": "ALLIANT",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.1413,
+        "powder": "RED DOT",
+        "manufacturer": "ALLIANT",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0746,
+        "powder": "RELODER 10",
+        "manufacturer": "ALLIANT",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0696,
+        "powder": "RELODER 17",
+        "manufacturer": "ALLIANT",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0707,
+        "powder": "RELODER 25",
+        "manufacturer": "ALLIANT",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0728,
+        "powder": "RELODER 7",
+        "manufacturer": "ALLIANT",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0691,
+        "powder": "RELODER12",
+        "manufacturer": "ALLIANT",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0706,
+        "powder": "RELODER15",
+        "manufacturer": "ALLIANT",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0706,
+        "powder": "RELODER19",
+        "manufacturer": "ALLIANT",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0697,
+        "powder": "RELODER22",
+        "manufacturer": "ALLIANT",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.1092,
+        "powder": "UNIQUE",
+        "manufacturer": "ALLIANT",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0715,
+        "powder": "BENCHMARK",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0645,
+        "powder": "BL-C(2)",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0646,
+        "powder": "CFE 223",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0754,
+        "powder": "CFE PISTOL",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.1462,
+        "powder": "CLAYS",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0694,
+        "powder": "H 50 BMG",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0678,
+        "powder": "H LIL GUN",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0721,
+        "powder": "H RETUMBO",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0653,
+        "powder": "H-LVR",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0811,
+        "powder": "H-PYRDX RS",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0823,
+        "powder": "H-PYRODX P",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0658,
+        "powder": "H-SUPRFORM",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0731,
+        "powder": "H-VARGET",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0713,
+        "powder": "H1000",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0656,
+        "powder": "H110",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0725,
+        "powder": "H322",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0645,
+        "powder": "H335",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0691,
+        "powder": "H380",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0661,
+        "powder": "H414",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.075,
+        "powder": "H4198",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0769,
+        "powder": "H4227",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0725,
+        "powder": "H4350",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0653,
+        "powder": "H450",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0725,
+        "powder": "H4831",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0728,
+        "powder": "H4895",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0686,
+        "powder": "H870",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0651,
+        "powder": "HO US869",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0926,
+        "powder": "HP38",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0712,
+        "powder": "HS6",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.068,
+        "powder": "HS7",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0726,
+        "powder": "HYBRID 100",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.1266,
+        "powder": "INTERNATIONAL",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0824,
+        "powder": "LONGSHOT",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.1014,
+        "powder": "PYRODEX CTG",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0847,
+        "powder": "TITEGROUP",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.13,
+        "powder": "TITEWAD",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.1099,
+        "powder": "UNIVERSAL",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0725,
+        "powder": "IMR 4007 SSC",
+        "manufacturer": "IMR",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0741,
+        "powder": "IMR 4166",
+        "manufacturer": "IMR",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0713,
+        "powder": "IMR 4451",
+        "manufacturer": "IMR",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0724,
+        "powder": "IMR 4955",
+        "manufacturer": "IMR",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.1343,
+        "powder": "IMR 700X",
+        "manufacturer": "IMR",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0707,
+        "powder": "IMR 7977",
+        "manufacturer": "IMR",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.1071,
+        "powder": "IMR 800X",
+        "manufacturer": "IMR",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.071,
+        "powder": "IMR 8208 XBR",
+        "manufacturer": "IMR",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.1205,
+        "powder": "IMR PB",
+        "manufacturer": "IMR",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.2172,
+        "powder": "IMR TRAIL BOS",
+        "manufacturer": "IMR",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0762,
+        "powder": "IMR3031",
+        "manufacturer": "IMR",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0745,
+        "powder": "IMR4064",
+        "manufacturer": "IMR",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0792,
+        "powder": "IMR4198",
+        "manufacturer": "IMR",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0769,
+        "powder": "IMR4227",
+        "manufacturer": "IMR",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0716,
+        "powder": "IMR4320",
+        "manufacturer": "IMR",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0735,
+        "powder": "IMR4350",
+        "manufacturer": "IMR",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0735,
+        "powder": "IMR4831",
+        "manufacturer": "IMR",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0728,
+        "powder": "IMR4895",
+        "manufacturer": "IMR",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0725,
+        "powder": "IMR7828",
+        "manufacturer": "IMR",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.11,
+        "powder": "SR4756",
+        "manufacturer": "IMR",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0993,
+        "powder": "SR4759",
+        "manufacturer": "IMR",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.1046,
+        "powder": "SR7625",
+        "manufacturer": "IMR",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0741,
+        "powder": "AR2205",
+        "manufacturer": "MULWEX",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0714,
+        "powder": "AR2206",
+        "manufacturer": "MULWEX",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0759,
+        "powder": "AR2207",
+        "manufacturer": "MULWEX",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0725,
+        "powder": "AR2208",
+        "manufacturer": "MULWEX",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0713,
+        "powder": "AR2209",
+        "manufacturer": "MULWEX",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0686,
+        "powder": "AR2213",
+        "manufacturer": "MULWEX",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.1208,
+        "powder": "AS50",
+        "manufacturer": "MULWEX",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.1006,
+        "powder": "BLACKHORN 209",
+        "manufacturer": "WESTERN",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.1278,
+        "powder": "R COMPETITION",
+        "manufacturer": "WESTERN",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0693,
+        "powder": "R ENFORCER",
+        "manufacturer": "WESTERN",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0667,
+        "powder": "R HUNTER",
+        "manufacturer": "WESTERN",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0796,
+        "powder": "R SILHOUETTE",
+        "manufacturer": "WESTERN",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0684,
+        "powder": "R TRUE BLUE",
+        "manufacturer": "WESTERN",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0708,
+        "powder": "RAM BIG GAME",
+        "manufacturer": "WESTERN",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0661,
+        "powder": "RAM MAGNUM",
+        "manufacturer": "WESTERN",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0671,
+        "powder": "RAM TAC",
+        "manufacturer": "WESTERN",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0816,
+        "powder": "RAM ZIP",
+        "manufacturer": "WESTERN",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0681,
+        "powder": "X-TERMINATOR",
+        "manufacturer": "WESTERN",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0892,
+        "powder": "MP200",
+        "manufacturer": "SOUTH AFRICA",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.1061,
+        "powder": "MS200",
+        "manufacturer": "SOUTH AFRICA",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.1196,
+        "powder": "VEC AO",
+        "manufacturer": "VECTAN",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.135,
+        "powder": "VEC BA10",
+        "manufacturer": "VECTAN",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0919,
+        "powder": "VEC BA9",
+        "manufacturer": "VECTAN",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0668,
+        "powder": "VEC SP10",
+        "manufacturer": "VECTAN",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0682,
+        "powder": "VEC SP3",
+        "manufacturer": "VECTAN",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0658,
+        "powder": "VEC SP7",
+        "manufacturer": "VECTAN",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0682,
+        "powder": "VEC SP8",
+        "manufacturer": "VECTAN",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0682,
+        "powder": "VEC SP9",
+        "manufacturer": "VECTAN",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0762,
+        "powder": "VEC TU2000",
+        "manufacturer": "VECTAN",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.072,
+        "powder": "VEC TU5000",
+        "manufacturer": "VECTAN",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0704,
+        "powder": "VEC TU7000",
+        "manufacturer": "VECTAN",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0704,
+        "powder": "VEC TU8000",
+        "manufacturer": "VECTAN",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0705,
+        "powder": "v-N530",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0913,
+        "powder": "v-3N37",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.09,
+        "powder": "v-N105",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0833,
+        "powder": "v-N110",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0776,
+        "powder": "v-N120",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0754,
+        "powder": "v-N130",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.077,
+        "powder": "v-N133",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0777,
+        "powder": "v-N135",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0733,
+        "powder": "v-N140",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0746,
+        "powder": "v-N150",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0734,
+        "powder": "v-N160",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0712,
+        "powder": "v-N165",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0713,
+        "powder": "v-N170",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.1214,
+        "powder": "v-N310",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.121,
+        "powder": "v-N320",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.1079,
+        "powder": "v-N330",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.1066,
+        "powder": "v-N340",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0977,
+        "powder": "v-N350",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0701,
+        "powder": "v-N540",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0692,
+        "powder": "v-N550",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.069,
+        "powder": "v-N560",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0738,
+        "powder": "NORMA 200",
+        "manufacturer": "NORMA",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0728,
+        "powder": "NORMA 201",
+        "manufacturer": "NORMA",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0747,
+        "powder": "NORMA 202",
+        "manufacturer": "NORMA",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0722,
+        "powder": "NORMA 203B",
+        "manufacturer": "NORMA",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0706,
+        "powder": "NORMA 204",
+        "manufacturer": "NORMA",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0715,
+        "powder": "NORMA 217",
+        "manufacturer": "NORMA",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0707,
+        "powder": "NORMA MRP",
+        "manufacturer": "NORMA",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0717,
+        "powder": "NORMA URP",
+        "manufacturer": "NORMA",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0787,
+        "powder": "AUTOCOMP",
+        "manufacturer": "WINCHESTER",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0684,
+        "powder": "SUPERM780",
+        "manufacturer": "WINCHESTER",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0931,
+        "powder": "WIN 231",
+        "manufacturer": "WINCHESTER",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0656,
+        "powder": "WIN 296",
+        "manufacturer": "WINCHESTER",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0823,
+        "powder": "WIN 572",
+        "manufacturer": "WINCHESTER",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0655,
+        "powder": "WIN 748",
+        "manufacturer": "WINCHESTER",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0666,
+        "powder": "WIN 760",
+        "manufacturer": "WINCHESTER",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.1266,
+        "powder": "WIN AA LITE",
+        "manufacturer": "WINCHESTER",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.1296,
+        "powder": "WIN AA PLUS",
+        "manufacturer": "WINCHESTER",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.081,
+        "powder": "WIN ACTION PI",
+        "manufacturer": "WINCHESTER",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0718,
+        "powder": "WIN MAG RIFLE",
+        "manufacturer": "WINCHESTER",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0859,
+        "powder": "WIN SUPER HAN",
+        "manufacturer": "WINCHESTER",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.084,
+        "powder": "wSUPER-FLD",
+        "manufacturer": "WINCHESTER",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.0847,
+        "powder": "wSUPER-LIT",
+        "manufacturer": "WINCHESTER",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.1205,
+        "powder": "wSUPER-TAR",
+        "manufacturer": "WINCHESTER",
+        "_ref": "AP1074_ru"
+    },
+    {
+        "vmd": 0.1349,
+        "powder": "A NITRO100",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0838,
+        "powder": "ACCUR #2",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0623,
+        "powder": "ACCUR #5",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0653,
+        "powder": "ACCUR #7",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0657,
+        "powder": "ACCUR #9",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0655,
+        "powder": "ACCUR 1680",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.073,
+        "powder": "ACCUR 2015BR",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0694,
+        "powder": "ACCUR 2200",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0657,
+        "powder": "ACCUR 2230",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0656,
+        "powder": "ACCUR 2460",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0748,
+        "powder": "ACCUR 2495BR",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0683,
+        "powder": "ACCUR 2520",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0685,
+        "powder": "ACCUR 2700",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0748,
+        "powder": "ACCUR 3100",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0755,
+        "powder": "ACCUR 4064",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.074,
+        "powder": "ACCUR 4350",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0757,
+        "powder": "ACCUR 5744",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0688,
+        "powder": "ACCUR 8700",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.1333,
+        "powder": "PEARL SCOT",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.1587,
+        "powder": "ROYAL SCOT",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.1331,
+        "powder": "SOLO 1000",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.122,
+        "powder": "SOLO 1250",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.1099,
+        "powder": "SOLO 1500",
+        "manufacturer": "ACCURATE",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.1063,
+        "powder": "ALLIANT STEEL",
+        "manufacturer": "ALLIANT",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.1341,
+        "powder": "AMER-SELECT",
+        "manufacturer": "ALLIANT",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0865,
+        "powder": "BLUE DOT",
+        "manufacturer": "ALLIANT",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.1064,
+        "powder": "BULLSEYE",
+        "manufacturer": "ALLIANT",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.1262,
+        "powder": "GREEN DOT",
+        "manufacturer": "ALLIANT",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0742,
+        "powder": "HERC 2400",
+        "manufacturer": "ALLIANT",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.1122,
+        "powder": "HERCO",
+        "manufacturer": "ALLIANT",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0889,
+        "powder": "POWER PISTOL",
+        "manufacturer": "ALLIANT",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.1413,
+        "powder": "RED DOT",
+        "manufacturer": "ALLIANT",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0728,
+        "powder": "RELODER 7",
+        "manufacturer": "ALLIANT",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0691,
+        "powder": "RELODER12",
+        "manufacturer": "ALLIANT",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0706,
+        "powder": "RELODER15",
+        "manufacturer": "ALLIANT",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0706,
+        "powder": "RELODER19",
+        "manufacturer": "ALLIANT",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0697,
+        "powder": "RELODER22",
+        "manufacturer": "ALLIANT",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.1092,
+        "powder": "UNIQUE",
+        "manufacturer": "ALLIANT",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0645,
+        "powder": "BL-C(2)",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.1462,
+        "powder": "CLAYS",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0678,
+        "powder": "H LIL GUN",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.1171,
+        "powder": "H TRAP100",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0811,
+        "powder": "H-PYRDX RS",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0823,
+        "powder": "H-PYRODX P",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0731,
+        "powder": "H-VARGET",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0713,
+        "powder": "H1000",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0656,
+        "powder": "H110",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0725,
+        "powder": "H322",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0645,
+        "powder": "H335",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0691,
+        "powder": "H380",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0661,
+        "powder": "H414",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.075,
+        "powder": "H4198",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0769,
+        "powder": "H4227",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0725,
+        "powder": "H4350",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0653,
+        "powder": "H450",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0725,
+        "powder": "H4831",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0728,
+        "powder": "H4895",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0686,
+        "powder": "H870",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0926,
+        "powder": "HP38",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0712,
+        "powder": "HS6",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.068,
+        "powder": "HS7",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.1266,
+        "powder": "INT-CLAYS",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.1014,
+        "powder": "PYRODEX CTG",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0847,
+        "powder": "TITEGROUP",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.13,
+        "powder": "TITEWAD",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.1099,
+        "powder": "UNIVERSAL CLA",
+        "manufacturer": "HODGDON",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.1343,
+        "powder": "IMR 700X",
+        "manufacturer": "IMR",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.1071,
+        "powder": "IMR 800X",
+        "manufacturer": "IMR",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.1205,
+        "powder": "IMR PB",
+        "manufacturer": "IMR",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0762,
+        "powder": "IMR3031",
+        "manufacturer": "IMR",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0745,
+        "powder": "IMR4064",
+        "manufacturer": "IMR",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0792,
+        "powder": "IMR4198",
+        "manufacturer": "IMR",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0769,
+        "powder": "IMR4227",
+        "manufacturer": "IMR",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0716,
+        "powder": "IMR4320",
+        "manufacturer": "IMR",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0735,
+        "powder": "IMR4350",
+        "manufacturer": "IMR",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0735,
+        "powder": "IMR4831",
+        "manufacturer": "IMR",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0728,
+        "powder": "IMR4895",
+        "manufacturer": "IMR",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0725,
+        "powder": "IMR7828",
+        "manufacturer": "IMR",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.11,
+        "powder": "SR4756",
+        "manufacturer": "IMR",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0993,
+        "powder": "SR4759",
+        "manufacturer": "IMR",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.1046,
+        "powder": "SR7625",
+        "manufacturer": "IMR",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0741,
+        "powder": "AR2205",
+        "manufacturer": "MULWEX",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0714,
+        "powder": "AR2206",
+        "manufacturer": "MULWEX",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0759,
+        "powder": "AR2207",
+        "manufacturer": "MULWEX",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0725,
+        "powder": "AR2208",
+        "manufacturer": "MULWEX",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0713,
+        "powder": "AR2209",
+        "manufacturer": "MULWEX",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0686,
+        "powder": "AR2213",
+        "manufacturer": "MULWEX",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.1208,
+        "powder": "AS50",
+        "manufacturer": "MULWEX",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0677,
+        "powder": "NORMA 200",
+        "manufacturer": "NORMA",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0691,
+        "powder": "NORMA 201",
+        "manufacturer": "NORMA",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.1434,
+        "powder": "NORMA 2010",
+        "manufacturer": "NORMA",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.1208,
+        "powder": "NORMA 2020",
+        "manufacturer": "NORMA",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0691,
+        "powder": "NORMA 203",
+        "manufacturer": "NORMA",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0677,
+        "powder": "NORMA 204",
+        "manufacturer": "NORMA",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0672,
+        "powder": "NORMA 205",
+        "manufacturer": "NORMA",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0712,
+        "powder": "NOBEL REV#1",
+        "manufacturer": "NOBEL",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.1366,
+        "powder": "NOBEL 60",
+        "manufacturer": "NOBEL",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.1223,
+        "powder": "NOBEL 62",
+        "manufacturer": "NOBEL",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.1154,
+        "powder": "NOBEL 64",
+        "manufacturer": "NOBEL",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.1507,
+        "powder": "NOBEL 78",
+        "manufacturer": "NOBEL",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.1473,
+        "powder": "NOBEL 80",
+        "manufacturer": "NOBEL",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.1357,
+        "powder": "NOBEL 82",
+        "manufacturer": "NOBEL",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0858,
+        "powder": "NOBELPIS 2",
+        "manufacturer": "NOBEL",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.1178,
+        "powder": "NOBELPIS 3",
+        "manufacturer": "NOBEL",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.072,
+        "powder": "NOBELRIF 0",
+        "manufacturer": "NOBEL",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.072,
+        "powder": "NOBELRIF 1",
+        "manufacturer": "NOBEL",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.072,
+        "powder": "NOBELRIF 2",
+        "manufacturer": "NOBEL",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.072,
+        "powder": "NOBELRIF 3",
+        "manufacturer": "NOBEL",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0693,
+        "powder": "R ENFORCER",
+        "manufacturer": "RAM SHOT",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0,
+        "powder": "R SILHOUETTE",
+        "manufacturer": "RAM SHOT",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0684,
+        "powder": "R TRUE BLUE",
+        "manufacturer": "RAM SHOT",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0661,
+        "powder": "RAM BIG BOY",
+        "manufacturer": "RAM SHOT",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0708,
+        "powder": "RAM BIG GAME",
+        "manufacturer": "RAM SHOT",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0671,
+        "powder": "RAM TAC",
+        "manufacturer": "RAM SHOT",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0816,
+        "powder": "RAM ZIP",
+        "manufacturer": "RAM SHOT",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0681,
+        "powder": "X-TERMINATER",
+        "manufacturer": "RAM SHOT",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0892,
+        "powder": "MP200",
+        "manufacturer": "SOUTH AFRICA",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.1061,
+        "powder": "MS200",
+        "manufacturer": "SOUTH AFRICA",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0913,
+        "powder": "v-3N37",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0754,
+        "powder": "V-3N38",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.09,
+        "powder": "v-N105",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0833,
+        "powder": "v-N110",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0776,
+        "powder": "v-N120",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0754,
+        "powder": "v-N130",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.077,
+        "powder": "v-N133",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0777,
+        "powder": "v-N135",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0733,
+        "powder": "v-N140",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0746,
+        "powder": "v-N150",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0734,
+        "powder": "v-N160",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0712,
+        "powder": "v-N165",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0713,
+        "powder": "v-N170",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.1214,
+        "powder": "v-N310",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.121,
+        "powder": "v-N320",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.1079,
+        "powder": "v-N330",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.1066,
+        "powder": "v-N340",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0977,
+        "powder": "v-N350",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0705,
+        "powder": "v-N530",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0701,
+        "powder": "v-N540",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0692,
+        "powder": "v-N550",
+        "manufacturer": "VIHTAVUORI",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0931,
+        "powder": "WIN 231",
+        "manufacturer": "WINCHESTER",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0656,
+        "powder": "WIN 296",
+        "manufacturer": "WINCHESTER",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.1171,
+        "powder": "WIN 452AA",
+        "manufacturer": "WINCHESTER",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0975,
+        "powder": "WIN 473AA",
+        "manufacturer": "WINCHESTER",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0683,
+        "powder": "WIN 540",
+        "manufacturer": "WINCHESTER",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.068,
+        "powder": "WIN 571",
+        "manufacturer": "WINCHESTER",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0666,
+        "powder": "WIN 630",
+        "manufacturer": "WINCHESTER",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0655,
+        "powder": "WIN 680",
+        "manufacturer": "WINCHESTER",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0655,
+        "powder": "WIN 748",
+        "manufacturer": "WINCHESTER",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0666,
+        "powder": "WIN 760",
+        "manufacturer": "WINCHESTER",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.1296,
+        "powder": "WIN AA PLUS",
+        "manufacturer": "WINCHESTER",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.081,
+        "powder": "WIN ACTION PI",
+        "manufacturer": "WINCHESTER",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0718,
+        "powder": "WIN MAG RIFLE",
+        "manufacturer": "WINCHESTER",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0859,
+        "powder": "WIN SUPER HANDI",
+        "manufacturer": "WINCHESTER",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.084,
+        "powder": "wSUPER-FLD",
+        "manufacturer": "WINCHESTER",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.0847,
+        "powder": "wSUPER-LIT",
+        "manufacturer": "WINCHESTER",
+        "_ref": "AP1074"
+    },
+    {
+        "vmd": 0.1205,
+        "powder": "wSUPER-TAR",
+        "manufacturer": "WINCHESTER",
+        "_ref": "AP1074"
+    }
+]
