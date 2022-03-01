@@ -955,7 +955,7 @@
     },
     {
         "vmd": 0.0754,
-        "powder": "V-3N38",
+        "powder": "v-3N38",
         "manufacturer": "VIHTAVUORI",
         "_ref": "90058_2"
     },
@@ -1639,7 +1639,7 @@
     },
     {
         "vmd": 0.071,
-        "powder": "IMR 8208",
+        "powder": "IMR 8208 XBR",
         "manufacturer": "HODGDON",
         "_ref": "90058_i"
     },
@@ -2551,7 +2551,7 @@
     },
     {
         "vmd": 0.071,
-        "powder": "IMR 8208",
+        "powder": "IMR 8208 XBR",
         "manufacturer": "HODGDON",
         "_ref": "90058"
     },
@@ -2755,7 +2755,7 @@
     },
     {
         "vmd": 0.0693,
-        "powder": "R ENFORCE",
+        "powder": "R ENFORCER",
         "manufacturer": "RAMSHOT",
         "_ref": "90058"
     },
@@ -2947,7 +2947,7 @@
     },
     {
         "vmd": 0.0754,
-        "powder": "V-3N38",
+        "powder": "v-3N38",
         "manufacturer": "VIHTAVUORI",
         "_ref": "90058"
     },
@@ -3523,7 +3523,7 @@
     },
     {
         "vmd": 0.0726,
-        "powder": "HYBRID 100",
+        "powder": "HYBRID100",
         "manufacturer": "HODGDON",
         "_ref": "AP1074_ru"
     },
@@ -3619,7 +3619,7 @@
     },
     {
         "vmd": 0.2172,
-        "powder": "IMR TRAIL BOS",
+        "powder": "IMR TRAIL BOSS",
         "manufacturer": "IMR",
         "_ref": "AP1074_ru"
     },
@@ -4069,7 +4069,7 @@
     },
     {
         "vmd": 0.0684,
-        "powder": "SUPERM780",
+        "powder": "SUPRM780",
         "manufacturer": "WINCHESTER",
         "_ref": "AP1074_ru"
     },
@@ -4129,7 +4129,7 @@
     },
     {
         "vmd": 0.0859,
-        "powder": "WIN SUPER HAN",
+        "powder": "WIN SUPER HANDI",
         "manufacturer": "WINCHESTER",
         "_ref": "AP1074_ru"
     },
@@ -4189,7 +4189,7 @@
     },
     {
         "vmd": 0.073,
-        "powder": "ACCUR 2015BR",
+        "powder": "ACCUR 2015",
         "manufacturer": "ACCURATE",
         "_ref": "AP1074"
     },
@@ -4213,7 +4213,7 @@
     },
     {
         "vmd": 0.0748,
-        "powder": "ACCUR 2495BR",
+        "powder": "ACCUR 2495",
         "manufacturer": "ACCURATE",
         "_ref": "AP1074"
     },
@@ -4843,7 +4843,7 @@
     },
     {
         "vmd": 0.0681,
-        "powder": "X-TERMINATER",
+        "powder": "X-TERMINATOR",
         "manufacturer": "RAM SHOT",
         "_ref": "AP1074"
     },
@@ -4867,7 +4867,7 @@
     },
     {
         "vmd": 0.0754,
-        "powder": "V-3N38",
+        "powder": "v-3N38",
         "manufacturer": "VIHTAVUORI",
         "_ref": "AP1074"
     },
@@ -5104,7 +5104,7 @@
     },
     {
         "vmd": 0.06720001604134536,
-        "powder": "BLACKFFFFG",
+        "powder": "BLACK FFFFG",
         "_ref": "derived_dippers"
     },
     {
@@ -5809,7 +5809,7 @@
     },
     {
         "vmd": 0.0704934162801831,
-        "powder": "V-N530",
+        "powder": "v-N530",
         "_ref": "derived_dippers"
     },
     {
@@ -5999,7 +5999,7 @@
     },
     {
         "vmd": 0.08591349435212735,
-        "powder": "WINSUPERHANDI",
+        "powder": "WIN SUPER HANDI",
         "_ref": "derived_dippers"
     },
     {
