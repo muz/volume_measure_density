@@ -19,48 +19,53 @@
         }).sort());
 
         $.each(powders, function(i, p) {
-          $('#powder').append($('<option>', {
-            value: p,
-            text: p
+          $('#powderList').append($('<option>', {
+            value: p
           }));
         });
       });
 
-      $("#reset").click(function(){
-        $('#grains').val(0);
-        $('#output').text('0');
+      $("#amount, #powder, #units").change(function(){
+        calculate();
       });
 
-      $("#calculate").click(function(){
+      $('form').submit(function() {
+        return false;
+      });
+
+      function calculate() {
         let powder = $('#powder').val();
+
+        let units = ($('#units').val() === "grains") ? "weight" : "volume";
+        $("#results").text((units == "weight") ? "Results (cc)" : "Results (gr)");
 
         let results = $.unique($.map(
           $.grep(vmdData, function(v, i){
             return v['powder'] == powder;
           }), function(v, i){
-            return v['vmd'] * $("#grains").val();
+            return (units == "weight") ? v['vmd'] * $("#amount").val() : $("#amount").val() / v['vmd'];
           }
         ));
 
-        if ($("#grains").val() == 0) {
+        if ($("#amount").val() == 0) {
           results = [0];
         }
 
         let resultText = results;
         $('#output').text(resultText.join("\r\n"));
-      });
+      };
     });
  </script>
 
   <div class="container">
     <div class="row">
       <div class="col">
-        <h1>Grains to CC</h1>
+        <h1>Grains <-> CC Approximations</h1>
         <p>
           ALWAYS DOUBLE CHECK YOUR LOADS.
         </p>
         <p>
-          Given a charge weight of powder in grains, get an approximate equivalent volume cubic-centimetres (CC).
+          Convert between charge weights of powder in grains (gr), and volumes in cubic centimetres (cc).
         </p>
         <p>
           Multiple results are generated as this has knowledge of provided and inferred VMD values from various Lee loading materials.
@@ -70,22 +75,26 @@
 
     <div class="row">
       <div class="col">
-        <form>
-        <label for="powder">Powder: </label><select id="powder" class="form-control"></select>
-        <br />
-        <label for="grains">Grains: </label><input type="number" step="0.1" id="grains" value="0" min="0" class="form-control">
-        </form>
+        <label for="powder">Powder: </label>
+        <input class="form-control" list="powderList" id="powder" placeholder="Type to search...">
+        <datalist id="powderList">
+        </datalist>
+      </div>
+      <div class="col">
+        <label for="units">Units: </label>
+        <select id="units" class="form-control">
+          <option value="grains">Grains</option>
+          <option value="ccs">Cubic Centimeters</option>
+        </select>
+      </div>
+      <div class="col">
+        <label for="amount">Amount: </label><input type="number" step="0.1" id="amount" value="0" min="0" class="form-control">
       </div>
     </div>
-
+    <hr>
     <div class="row">
       <div class="col">
-        <button type="button" class="btn btn-primary" id="calculate">Calculate</button>
-        <button type="button" class="btn btn-secondary" id="reset">Reset</button>
-      </div>
-
-      <div class="col">
-        <strong>Results (CCs)</strong>
+        <strong id="results">Results</strong>
         <p style="white-space: pre;" id="output">0</p>
       </div>
     </div>

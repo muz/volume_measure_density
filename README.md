@@ -17,11 +17,11 @@ by myself in these files. These figures are only guide measurements to
 bootstrap dialing in a volume measure. Always double check your charge volumes
 and weights with other means.
 
-I've spotted over variations of literature provided by Lee that VMD figures for
-the same powder has changed. Either a correction, or error. I don't know.
+I've spotted that in the literature provided by Lee, VMD figures for the same
+powder has changed. Either a correction, or error. I don't know.
 
 ## DOUBLE CHECK YOUR LOADS
 
 ----
 
- * [Github Pages](https://muz.github.io/volume_measure_density/)
+ * [Grains <-> CC Approximations](https://muz.github.io/volume_measure_density/)
